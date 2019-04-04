@@ -1,2 +1,3 @@
 # Seinfeld
-Data 301 Final Project
+
+Data Science Project on the Seinfeld TV Show
